@@ -130,6 +130,7 @@ a:hover {
 
 }
 .content{
+  margin-top: 15%;
   display: flex;
   text-align: center;
   justify-content: center;
